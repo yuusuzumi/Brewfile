@@ -11,6 +11,7 @@ brew cmake
 brew coreutils
 brew file-formula
 brew fish
+brew fisher
 brew flyctl
 brew gettext
 brew ghq
@@ -31,8 +32,11 @@ brew ncurses
 brew neovim --HEAD
 brew openssl@3
 brew pcre2
+brew peco
 brew readline
+brew rye
 brew tmux
+brew tpm
 brew tree-sitter
 brew unar
 brew unibilium
@@ -41,11 +45,14 @@ brew utf8proc
 
 tap homebrew/cask
 cask aural
+cask betterdisplay
 cask coteditor
 cask firefox
 cask github
 cask iterm2
+cask motrix
 cask onyx
+cask popclip
 cask utm
 
 tap homebrew/cask-fonts
@@ -61,6 +68,7 @@ tap sokoloffa/radiola
 cask radiola
 
 # App Store applications
+appstore 6447080018 ActivityBar (4.1.2)
 appstore 682658836 GarageBand (10.4.10)
 appstore 408981434 iMovie (10.4)
 appstore 409183694 Keynote (13.2)
