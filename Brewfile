@@ -2,7 +2,6 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew asdf
 brew autoconf
 brew automake
 brew ca-certificates
@@ -23,20 +22,31 @@ brew ghq
 brew giflib
 brew glib
 brew gmp
+brew gnupg
+brew gnutls
 brew graphite2
 brew harfbuzz
 brew icu4c
 brew isl
 brew jpeg-turbo
+brew libassuan
 brew libevent
+brew libgcrypt
+brew libgpg-error
+brew libidn2
 brew libimagequant
+brew libksba
 brew libmagic
 brew libmpc
+brew libnghttp2
 brew libpng
 brew libraqm
+brew libtasn1
 brew libtermkey
 brew libtiff
 brew libtool
+brew libunistring
+brew libusb
 brew libuv
 brew libvterm
 brew libx11
@@ -58,13 +68,18 @@ brew mpfr
 brew msgpack
 brew ncurses
 brew neovim --HEAD
+brew nettle
+brew npth
 brew numpy
 brew openblas
 brew openjpeg
+brew openldap
 brew openssl@3
+brew p11-kit
 brew pcre2
 brew peco
 brew pillow
+brew pinentry
 brew pixman
 brew python@3.12
 brew raylib
@@ -77,6 +92,7 @@ brew tmux
 brew tpm
 brew tree-sitter
 brew unar
+brew unbound
 brew unibilium
 brew unixodbc
 brew utf8proc
