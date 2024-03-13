@@ -139,7 +139,7 @@ tap sokoloffa/radiola
 cask radiola
 
 # App Store applications
-appstore 6447080018 ActivityBar (4.1.2)
+appstore 6447080018 ActivityBar (4.1.4)
 appstore 682658836 GarageBand (10.4.10)
 appstore 1451785114 himekuri3 (3.4.7)
 appstore 408981434 iMovie (10.4)
@@ -147,5 +147,5 @@ appstore 409183694 Keynote (13.2)
 appstore 409203825 Numbers (13.2)
 appstore 409201541 Pages (13.2)
 appstore 1611378436 Pure Paste (1.10.0)
-appstore 1429033973 RunCat (11.0.3)
+appstore 1429033973 RunCat (11.1.2)
 appstore 1603180719 Tubist (1.2.1)
