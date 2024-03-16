@@ -13,6 +13,7 @@ brew file-formula
 brew fish
 brew fisher
 brew flyctl
+brew fnm
 brew fontconfig
 brew freetype
 brew fribidi
@@ -20,6 +21,7 @@ brew frum
 brew gcc
 brew gettext
 brew ghq
+brew gibo
 brew giflib
 brew glib
 brew gmp
@@ -75,7 +77,6 @@ brew numpy
 brew openblas
 brew openjpeg
 brew openldap
-brew openssl@1.1
 brew openssl@3
 brew p11-kit
 brew pcre2
@@ -92,7 +93,6 @@ brew six
 brew sqlite
 brew tcl-tk
 brew tmux
-brew tpm
 brew tree-sitter
 brew unar
 brew unbound
@@ -110,12 +110,14 @@ brew zstd
 tap homebrew/cask
 cask aural
 cask betterdisplay
+cask cool-retro-term
 cask coteditor
 cask cyberduck
 cask firefox
 cask github
 cask google-japanese-ime
 cask iterm2
+cask maccy
 cask menubarx
 cask motrix
 cask onyx
@@ -130,8 +132,6 @@ cask font-hackgen-nerd
 cask font-plemol-jp-nf
 cask font-udev-gothic-nf
 
-tap koyeb/tap
-
 tap rcmdnk/file
 brew brew-file
 
@@ -140,7 +140,8 @@ cask radiola
 
 # App Store applications
 appstore 6447080018 ActivityBar (4.1.4)
-appstore 682658836 GarageBand (10.4.10)
+appstore 937984704 Amphetamine (5.3.2)
+appstore 682658836 GarageBand (10.4.11)
 appstore 1451785114 himekuri3 (3.4.7)
 appstore 408981434 iMovie (10.4)
 appstore 409183694 Keynote (13.2)
