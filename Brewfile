@@ -77,6 +77,7 @@ brew numpy
 brew openblas
 brew openjpeg
 brew openldap
+brew openssl@1.1
 brew openssl@3
 brew p11-kit
 brew pcre2
@@ -121,9 +122,9 @@ cask maccy
 cask menubarx
 cask motrix
 cask onyx
-cask popclip
 cask spotify
 cask spotify-now-playing
+cask steam
 cask utm
 
 tap homebrew/cask-fonts
@@ -141,12 +142,15 @@ cask radiola
 # App Store applications
 appstore 6447080018 ActivityBar (4.1.4)
 appstore 937984704 Amphetamine (5.3.2)
+appstore 6449360098 BanyanTree (1.6)
+appstore 1603201123 Earthquake (2.5)
 appstore 682658836 GarageBand (10.4.11)
 appstore 1451785114 himekuri3 (3.4.7)
 appstore 408981434 iMovie (10.4)
 appstore 409183694 Keynote (13.2)
 appstore 409203825 Numbers (13.2)
 appstore 409201541 Pages (13.2)
+appstore 445189367 PopClip (2023.9)
 appstore 1611378436 Pure Paste (1.10.0)
 appstore 1429033973 RunCat (11.1.2)
 appstore 1603180719 Tubist (1.2.1)
