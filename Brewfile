@@ -19,6 +19,7 @@ brew freetype
 brew fribidi
 brew frum
 brew gcc
+brew gdk-pixbuf
 brew gettext
 brew ghq
 brew gibo
@@ -31,9 +32,11 @@ brew graphite2
 brew harfbuzz
 brew icu4c
 brew isl
+brew jansson
 brew jpeg-turbo
 brew libassuan
 brew libevent
+brew libgccjit
 brew libgcrypt
 brew libgpg-error
 brew libidn2
@@ -44,6 +47,7 @@ brew libmpc
 brew libnghttp2
 brew libpng
 brew libraqm
+brew librsvg
 brew libtasn1
 brew libtermkey
 brew libtiff
@@ -57,6 +61,7 @@ brew libxau
 brew libxcb
 brew libxdmcp
 brew libxext
+brew libxml2
 brew libxrender
 brew libyaml
 brew little-cms2
@@ -80,6 +85,7 @@ brew openldap
 brew openssl@1.1
 brew openssl@3
 brew p11-kit
+brew pango
 brew pcre2
 brew peco
 brew pillow
@@ -93,6 +99,7 @@ brew rye
 brew six
 brew sqlite
 brew tcl-tk
+brew texinfo
 brew tmux
 brew tree-sitter
 brew unar
@@ -135,6 +142,9 @@ cask font-firgenerd
 cask font-hackgen-nerd
 cask font-plemol-jp-nf
 cask font-udev-gothic-nf
+
+tap railwaycat/emacsmacport
+brew emacs-mac --with-native-comp --with-xwidgets --with-glib --with-librsvg
 
 tap rcmdnk/file
 brew brew-file
