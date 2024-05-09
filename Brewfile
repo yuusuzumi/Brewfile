@@ -120,6 +120,8 @@ cask aural
 cask betterdisplay
 cask bilibili
 cask bilimini
+cask caldigit-docking-utility
+cask caldigit-thunderbolt-charging
 cask cool-retro-term
 cask coteditor
 cask cyberduck
@@ -131,6 +133,7 @@ cask maccy
 cask menubarx
 cask motrix
 cask onyx
+cask raycast
 cask spotify
 cask spotify-now-playing
 cask steam
@@ -155,7 +158,7 @@ cask radiola
 # App Store applications
 appstore 6447080018 ActivityBar (4.1.4)
 appstore 937984704 Amphetamine (5.3.2)
-appstore 6449360098 BanyanTree (1.6)
+appstore 6449360098 BanyanTree (1.8)
 appstore 1603201123 Earthquake (2.6)
 appstore 1483172210 Free Ruler (2.0.6)
 appstore 682658836 GarageBand (10.4.11)
@@ -168,5 +171,5 @@ appstore 409201541 Pages (14.0)
 appstore 445189367 PopClip (2023.9)
 appstore 1611378436 Pure Paste (1.10.0)
 appstore 1429033973 RunCat (11.3)
-appstore 6450969760 SoraSNS (10.0.2)
+appstore 6450969760 SoraSNS (10.0.3)
 appstore 1603180719 Tubist (1.2.1)
