@@ -6,9 +6,11 @@ brew autoconf
 brew automake
 brew ca-certificates
 brew cairo
+brew capstone
 brew chezmoi
 brew cmake
 brew coreutils
+brew dtc
 brew file-formula
 brew fish
 brew fisher
@@ -48,6 +50,8 @@ brew libnghttp2
 brew libpng
 brew libraqm
 brew librsvg
+brew libslirp
+brew libssh
 brew libtasn1
 brew libtermkey
 brew libtiff
@@ -93,10 +97,12 @@ brew pinentry
 brew pixman
 brew pkg-config
 brew python@3.12
+brew qemu
 brew raylib
 brew readline
 brew rye
 brew six
+brew snappy
 brew sqlite
 brew tcl-tk
 brew texinfo
@@ -107,6 +113,7 @@ brew unbound
 brew unibilium
 brew unixodbc
 brew utf8proc
+brew vde
 brew webp
 brew wxpython
 brew wxwidgets
@@ -132,12 +139,13 @@ cask iterm2
 cask maccy
 cask menubarx
 cask motrix
-cask onyx
+cask nuage
 cask raycast
 cask spotify
 cask spotify-now-playing
 cask steam
 cask utm
+cask virtualbox
 cask visual-studio-code
 
 tap homebrew/cask-fonts
@@ -173,3 +181,4 @@ appstore 1611378436 Pure Paste (1.10.0)
 appstore 1429033973 RunCat (11.3)
 appstore 6450969760 SoraSNS (10.0.3)
 appstore 1603180719 Tubist (1.2.1)
+appstore 497799835 Xcode (15.3)
