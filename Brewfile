@@ -133,6 +133,10 @@ cask cool-retro-term
 cask coteditor
 cask cyberduck
 cask firefox
+cask font-firgenerd
+cask font-hackgen-nerd
+cask font-plemol-jp-nf
+cask font-udev-gothic-nf
 cask github
 cask google-japanese-ime
 cask iterm2
@@ -149,10 +153,6 @@ cask virtualbox
 cask visual-studio-code
 
 tap homebrew/cask-fonts
-cask font-firgenerd
-cask font-hackgen-nerd
-cask font-plemol-jp-nf
-cask font-udev-gothic-nf
 
 tap railwaycat/emacsmacport
 brew emacs-mac --with-native-comp --with-xwidgets --with-glib --with-librsvg
@@ -167,11 +167,13 @@ cask radiola
 appstore 6447080018 ActivityBar (4.1.4)
 appstore 937984704 Amphetamine (5.3.2)
 appstore 6449360098 BanyanTree (1.8)
+appstore 1320450034 DaftCloud (4.1.1)
 appstore 1603201123 Earthquake (2.6)
 appstore 1483172210 Free Ruler (2.0.6)
 appstore 682658836 GarageBand (10.4.11)
 appstore 1451785114 himekuri3 (3.4.7)
 appstore 408981434 iMovie (10.4)
+appstore 1470230251 Ionica (4.3)
 appstore 409183694 Keynote (14.0)
 appstore 6458692877 MeasuringRope (1.0.7)
 appstore 409203825 Numbers (14.0)
@@ -179,6 +181,6 @@ appstore 409201541 Pages (14.0)
 appstore 445189367 PopClip (2023.9)
 appstore 1611378436 Pure Paste (1.10.0)
 appstore 1429033973 RunCat (11.3)
-appstore 6450969760 SoraSNS (10.0.3)
+appstore 6450969760 SoraSNS (10.0.5)
 appstore 1603180719 Tubist (1.2.1)
-appstore 497799835 Xcode (15.3)
+appstore 497799835 Xcode (15.4)
