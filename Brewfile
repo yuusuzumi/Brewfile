@@ -8,7 +8,6 @@ brew ca-certificates
 brew cairo
 brew capstone
 brew chezmoi
-brew cmake
 brew coreutils
 brew dtc
 brew file-formula
@@ -59,8 +58,6 @@ brew libtiff
 brew libtool
 brew libunistring
 brew libusb
-brew libuv
-brew libvterm
 brew libx11
 brew libxau
 brew libxcb
@@ -70,17 +67,12 @@ brew libxml2
 brew libxrender
 brew libyaml
 brew little-cms2
-brew lpeg
-brew luajit
-brew luv
 brew lz4
 brew lzo
 brew m4
 brew mpdecimal
 brew mpfr
-brew msgpack
 brew ncurses
-brew neovim --HEAD
 brew nettle
 brew npth
 brew numpy
@@ -97,10 +89,12 @@ brew pillow
 brew pinentry
 brew pixman
 brew pkg-config
+brew python-packaging
 brew python@3.12
 brew qemu
 brew raylib
 brew readline
+brew ripgrep
 brew rye
 brew six
 brew snappy
@@ -167,23 +161,23 @@ tap sokoloffa/radiola
 cask radiola
 
 # App Store applications
-appstore 6447080018 ActivityBar (4.1.4)
+appstore 6447080018 ActivityBar (4.1.5)
 appstore 937984704 Amphetamine (5.3.2)
-appstore 6449360098 BanyanTree (1.8)
+appstore 6449360098 BanyanTree (1.9)
 appstore 1320450034 DaftCloud (4.1.1)
-appstore 1603201123 Earthquake (2.6)
+appstore 1603201123 Earthquake (2.7)
 appstore 1483172210 Free Ruler (2.0.6)
 appstore 682658836 GarageBand (10.4.11)
 appstore 1451785114 himekuri3 (3.4.7)
-appstore 408981434 iMovie (10.4.1)
-appstore 1470230251 Ionica (4.3)
-appstore 409183694 Keynote (14.1)
+appstore 408981434 iMovie (10.4.2)
+appstore 1470230251 Ionica (4.6)
+appstore 409183694 Keynote (14.2)
 appstore 6458692877 MeasuringRope (1.0.7)
-appstore 409203825 Numbers (14.1)
-appstore 409201541 Pages (14.1)
+appstore 409203825 Numbers (14.2)
+appstore 409201541 Pages (14.2)
 appstore 445189367 PopClip (2023.9)
-appstore 1611378436 Pure Paste (1.10.0)
-appstore 1429033973 RunCat (11.3)
-appstore 6450969760 SoraSNS (10.0.6)
+appstore 1611378436 Pure Paste (1.11.2)
+appstore 1429033973 RunCat (11.4)
+appstore 6450969760 SoraSNS (11.2)
 appstore 1603180719 Tubist (1.2.1)
-appstore 497799835 Xcode (15.4)
+appstore 497799835 Xcode (16.0)
