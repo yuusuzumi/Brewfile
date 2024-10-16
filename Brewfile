@@ -32,6 +32,7 @@ brew gnutls
 brew graphite2
 brew harfbuzz
 brew icu4c
+brew icu4c@75
 brew isl
 brew jansson
 brew jpeg
@@ -91,6 +92,7 @@ brew pixman
 brew pkg-config
 brew python-packaging
 brew python@3.12
+brew python@3.13
 brew qemu
 brew raylib
 brew readline
