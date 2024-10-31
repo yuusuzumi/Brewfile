@@ -8,7 +8,9 @@ brew ca-certificates
 brew cairo
 brew capstone
 brew chezmoi
+brew cmake
 brew coreutils
+brew deno
 brew dtc
 brew file-formula
 brew fish
@@ -59,21 +61,25 @@ brew libtiff
 brew libtool
 brew libunistring
 brew libusb
+brew libuv
 brew libx11
 brew libxau
 brew libxcb
 brew libxdmcp
 brew libxext
-brew libxml2
 brew libxrender
 brew libyaml
 brew little-cms2
+brew lpeg
+brew luajit
+brew luv
 brew lz4
 brew lzo
 brew m4
 brew mpdecimal
 brew mpfr
 brew ncurses
+brew neovim
 brew nettle
 brew npth
 brew numpy
@@ -102,14 +108,13 @@ brew six
 brew snappy
 brew sqlite
 brew tcl-tk
-brew texinfo
 brew tmux
 brew tree-sitter
 brew unar
 brew unbound
 brew unibilium
 brew unixodbc
-brew utf8proc
+brew utf8proc --HEAD
 brew vde
 brew webp
 brew wxpython
@@ -153,8 +158,10 @@ tap homebrew/cask-fonts
 
 tap daviderestivo/emacs-head
 
+tap jimeh/emacs-builds
+cask emacs-app
+
 tap railwaycat/emacsmacport
-brew emacs-mac --with-native-comp --with-xwidgets --with-glib --with-librsvg
 
 tap rcmdnk/file
 brew brew-file
@@ -178,7 +185,7 @@ appstore 6458692877 MeasuringRope (1.0.7)
 appstore 409203825 Numbers (14.2)
 appstore 409201541 Pages (14.2)
 appstore 445189367 PopClip (2023.9)
-appstore 1611378436 Pure Paste (1.11.2)
+appstore 1611378436 Pure Paste (1.11.3)
 appstore 1429033973 RunCat (11.4)
 appstore 6450969760 SoraSNS (11.2)
 appstore 1603180719 Tubist (1.2.1)
