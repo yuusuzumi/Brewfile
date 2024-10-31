@@ -33,8 +33,6 @@ brew gnupg
 brew gnutls
 brew graphite2
 brew harfbuzz
-brew icu4c
-brew icu4c@75
 brew isl
 brew jansson
 brew jpeg
@@ -169,6 +167,9 @@ brew brew-file
 tap sokoloffa/radiola
 cask radiola
 
+# Other Homebrew packages
+brew icu4c
+
 # App Store applications
 appstore 6447080018 ActivityBar (4.1.5)
 appstore 937984704 Amphetamine (5.3.2)
@@ -187,6 +188,6 @@ appstore 409201541 Pages (14.2)
 appstore 445189367 PopClip (2023.9)
 appstore 1611378436 Pure Paste (1.11.3)
 appstore 1429033973 RunCat (11.4)
-appstore 6450969760 SoraSNS (11.2)
+appstore 6450969760 SoraSNS (12.0.1)
 appstore 1603180719 Tubist (1.2.1)
-appstore 497799835 Xcode (16.0)
+appstore 497799835 Xcode (16.1)
