@@ -94,7 +94,6 @@ brew peco
 brew pillow
 brew pinentry
 brew pixman
-brew pkg-config
 brew python-packaging
 brew python@3.12
 brew python@3.13
@@ -172,6 +171,7 @@ cask radiola
 
 # Other Homebrew packages
 brew icu4c
+brew pkg-config
 
 # App Store applications
 appstore 6447080018 ActivityBar (4.1.5)
