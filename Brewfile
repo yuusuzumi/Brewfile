@@ -33,6 +33,7 @@ brew gnupg
 brew gnutls
 brew graphite2
 brew harfbuzz
+brew icu4c@75
 brew isl
 brew jansson
 brew jpeg
@@ -111,6 +112,7 @@ brew tree-sitter
 brew unar
 brew unbound
 brew unibilium
+brew universal-ctags
 brew unixodbc
 brew utf8proc --HEAD
 brew vde
@@ -150,6 +152,7 @@ cask spotify
 cask spotify-now-playing
 cask steam
 cask utm
+cask virtualbox
 cask visual-studio-code
 
 tap homebrew/cask-fonts
